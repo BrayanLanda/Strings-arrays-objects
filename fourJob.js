@@ -41,8 +41,8 @@ const calculateGrade = function(){
     console.log(`Avarage grade: ${avarageGrade}
     Min grade: ${minGrade}
     Max grade: ${maxGrade}
-    <70 ${gradeMin}
-    >=70 ${gradeMax}
+    <70=${gradeMin}
+    >=70=${gradeMax}
     Grades Descending: ${sortedGrades}`);
 }
 
